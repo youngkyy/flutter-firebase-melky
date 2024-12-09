@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "417468427084",
+    "project_id": "melky-firebase",
+    "storage_bucket": "melky-firebase.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417468427084:android:05a16043015168773dfde9",
+        "android_client_info": {
+          "package_name": "com.melky.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN9rp84gIRet6jdUEjjQTUqPxB3BWgIsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417468427084:android:c9438e83dc6b47fd3dfde9",
+        "android_client_info": {
+          "package_name": "com.melky.sinun"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBN9rp84gIRet6jdUEjjQTUqPxB3BWgIsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
